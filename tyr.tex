@@ -3,8 +3,28 @@ Tyrėme HDI ir vaisinugmo rodiklio išskirtis.
 Išskirtis tyrėme pasitelkdami kvartilių metodą. Tai reiškia, kad reikšmę laikėme sąlygine išskirtimi, jei ji prikluasė intervalui $[Q1-3IQR; Q1-1,5IQR) \cup (Q3+1,5IQR; Q3+3IQR]$.
 
 \subsection{Koreliacijos tyrimas}
-Pamatavome vaisingumo ir HDI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. \\
+Pamatavome vaisingumo ir HDI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Jis paskaičiuojamas pagal formulę: 
+\begin{equation}
+r = \frac{\sum\limits_i (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum\limits_i(x_i - \bar{x})^2}\sqrt{\sum\limits_i(y_i - \bar{y})^2}}
+\end{equation}
 
-Šių kintamų jų koreliacijas iliustruoja sklaidos diagramos:
+\begin{table}[h!]
+\begin{center}
+    \begin{tabular}{|c|c|}
+        \hline
+        Pirsono koreliacijos koeficientas tarp vaisnigumo ir HDI & -0.819 \\\hline
+        Pirsono koreliacijos koeficientas tarp aukštojo išsilavinimo procento ir vaisingumo & -0.819 \\\hline
+    \end{tabular}
+    \caption{Koreliacijos skaičiavimų rezultatai}
+\end{center}
+\end{table}
+
+Šių kintamų koreliacijas iliustruoja sklaidos diagramos:
 
 \subsection{Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas} 
+
+Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymą iliustruoja histograma: \\
+
+Galima pastebėti, kad skirstinys nėra simetriškas.
+
+\subsection{Vaisingumo pasiskirstymas pasaulyje}
