@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  12 DEC 2023 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 00:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,42 +227,50 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \colbreak@box=\box98
 \mc@col@check@num=\count285
 )
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks26
+\float@box=\box99
+\@float@everytoks=\toks27
+\@floatcapt=\box100
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box99
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box101
 )
 (./tyriamasis.aux)
 \openout1 = `tyriamasis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count288
 \scratchdimen=\dimen170
-\scratchbox=\box100
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count290
+\scratchbox=\box102
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count291
 \MPscratchDim=\dimen171
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -307,60 +315,87 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./zym.tex) (./rakt.tex) (./iv.tex) (./tiks.tex) (./tyr.tex
-<pic/vias_hdi_rod.png, id=1, 447.636pt x 270.465pt>
+<pic/box.png, id=1, 252.069pt x 338.574pt>
+File: pic/box.png Graphic file (type png)
+<use pic/box.png>
+Package pdftex.def Info: pic/box.png  used on input line 7.
+(pdftex.def)             Requested size: 150.14671pt x 201.67358pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pic/box.png>]
+<pic/vias_hdi_rod.png, id=18, 447.636pt x 270.465pt>
 File: pic/vias_hdi_rod.png Graphic file (type png)
 <use pic/vias_hdi_rod.png>
-Package pdftex.def Info: pic/vias_hdi_rod.png  used on input line 26.
+Package pdftex.def Info: pic/vias_hdi_rod.png  used on input line 32.
 (pdftex.def)             Requested size: 250.24199pt x 151.19936pt.
-<pic/gyv_vais_kor.png, id=3, 411.72pt x 246.375pt>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 32--32
+ [][] 
+ []
+
+<pic/gyv_vais_kor.png, id=19, 411.72pt x 246.375pt>
 File: pic/gyv_vais_kor.png Graphic file (type png)
 <use pic/gyv_vais_kor.png>
-Package pdftex.def Info: pic/gyv_vais_kor.png  used on input line 31.
+Package pdftex.def Info: pic/gyv_vais_kor.png  used on input line 33.
 (pdftex.def)             Requested size: 250.24199pt x 149.74341pt.
 
+Overfull \hbox (5.0pt too wide) in paragraph at lines 33--33
+ [][] 
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<pic/histo.png, id=4, 411.282pt x 299.154pt>
+<pic/histo.png, id=20, 411.282pt x 299.154pt>
 File: pic/histo.png Graphic file (type png)
 <use pic/histo.png>
 Package pdftex.def Info: pic/histo.png  used on input line 39.
 (pdftex.def)             Requested size: 250.24199pt x 182.02263pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./isv.tex) (./liter.tex) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./pic/vias_hdi_rod.png
-> <./pic/gyv_vais_kor.png>] [3 <./pic/histo.png>] (./tyriamasis.aux) ) 
+<pic/map.png, id=21, 487.932pt x 278.349pt>
+File: pic/map.png Graphic file (type png)
+<use pic/map.png>
+Package pdftex.def Info: pic/map.png  used on input line 43.
+(pdftex.def)             Requested size: 250.24199pt x 142.7546pt.
+[2 <./pic/vias_hdi_rod.png> <./pic/gyv_vais_kor.png> <./pic/histo.png>]
+<pic/pie_2020.png, id=32, 575.094pt x 302.22pt>
+File: pic/pie_2020.png Graphic file (type png)
+<use pic/pie_2020.png>
+Package pdftex.def Info: pic/pie_2020.png  used on input line 46.
+(pdftex.def)             Requested size: 250.24199pt x 131.50613pt.
+<pic/balt.png, id=33, 361.788pt x 217.467pt>
+File: pic/balt.png Graphic file (type png)
+<use pic/balt.png>
+Package pdftex.def Info: pic/balt.png  used on input line 51.
+(pdftex.def)             Requested size: 250.24199pt x 150.41737pt.
+<pic/vais_balt.png, id=34, 563.049pt x 354.123pt>
+File: pic/vais_balt.png Graphic file (type png)
+<use pic/vais_balt.png>
+Package pdftex.def Info: pic/vais_balt.png  used on input line 54.
+(pdftex.def)             Requested size: 250.24199pt x 157.38159pt.
+)
+[3 <./pic/map.png> <./pic/pie_2020.png> <./pic/balt.png>] (./isv.tex) [4 <./pic
+/vais_balt.png>] (./tyriamasis.aux) ) 
 Here is how much of TeX's memory you used:
- 3984 strings out of 478287
- 61952 string characters out of 5849290
- 384424 words of memory out of 5000000
- 22134 multiletter control sequences out of 15000+600000
+ 4091 strings out of 478287
+ 63734 string characters out of 5849290
+ 382849 words of memory out of 5000000
+ 22236 multiletter control sequences out of 15000+600000
  478848 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,270b,276s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/sha
-re/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/d
-vips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
-x1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm1728.pfb>
-Output written on tyriamasis.pdf (3 pages, 441659 bytes).
+ 55i,9n,62p,270b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super
+/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on tyriamasis.pdf (4 pages, 961485 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
