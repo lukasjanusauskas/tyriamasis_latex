@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 20:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,11 +337,11 @@ File: pic/box.png Graphic file (type png)
 <use pic/box.png>
 Package pdftex.def Info: pic/box.png  used on input line 9.
 (pdftex.def)             Requested size: 150.14671pt x 201.67358pt.
-<pic/box2.png, id=26, 256.449pt x 348.21pt>
+<pic/box2.png, id=26, 259.734pt x 377.118pt>
 File: pic/box2.png Graphic file (type png)
 <use pic/box2.png>
 Package pdftex.def Info: pic/box2.png  used on input line 14.
-(pdftex.def)             Requested size: 150.14671pt x 203.87471pt.
+(pdftex.def)             Requested size: 150.14671pt x 218.01505pt.
 [3 <./pic/box.png> <./pic/box2.png>]
 <pic/vias_hdi_rod.png, id=33, 447.636pt x 270.465pt>
 File: pic/vias_hdi_rod.png Graphic file (type png)
@@ -413,7 +413,7 @@ fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf
 cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on tyriamasis.pdf (8 pages, 1039268 bytes).
+Output written on tyriamasis.pdf (8 pages, 1037262 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
