@@ -1,5 +1,5 @@
 \subsection{Išskirčių tyrimas}
-\paragraph{} Tyrėme HDI ir vaisinugmo rodiklio išskirtis, norėdami vėliau vykdyti sąryšių analizę, nes kai kurie duomenys gali iškraipyti kai kuriuos skaičiavimus(pavyzdžiui, Pirsono(angl. Pearson) koreliacijos koeficiento). 
+\paragraph{} Tyrėme ŽSRI ir vaisinugmo rodiklio išskirtis, norėdami vėliau vykdyti sąryšių analizę, nes kai kurie duomenys gali iškraipyti kai kuriuos skaičiavimus(pavyzdžiui, Pirsono(angl. Pearson) koreliacijos koeficiento). 
 Išskirtis tyrėme pasitelkdami kvartilių metodą. Tai reiškia, kad reikšmę laikėme sąlygine išskirtimi, jei ji priklausė intervalui $[Q1-3IQR; Q1-1,5IQR) \cup (Q3+1,5IQR; Q3+3IQR]$. O išskirtimi laikėme tokią reikšmę, kuri priklauso intervalui $(-\infty; Q1-3IQR] \cup [Q3+3IQR; \infty)$. \\\par
 Šių kintamųjų išskirtis ir pasiskirstymą iliustruoja stačiakampės diagramos:
 
@@ -7,7 +7,7 @@ Išskirtis tyrėme pasitelkdami kvartilių metodą. Tai reiškia, kad reikšmę 
     \begin{figure}[H]
         \centering
         \includegraphics[width=.3\textwidth]{pic/box.png}
-        \caption{HDI stačiakampė diagrama}
+        \caption{ŽSRI stačiakampė diagrama}
     \end{figure}
     \begin{figure}[H]
         \centering
@@ -17,6 +17,7 @@ Išskirtis tyrėme pasitelkdami kvartilių metodą. Tai reiškia, kad reikšmę 
 \end{multicols}
 
 Išskirčių lentelės:
+\begin{multicols}{2}
 \begin{table}[H]
 \begin{center}
     \caption{ŽSRI santykinės išskirtys}
@@ -33,7 +34,7 @@ Išskirčių lentelės:
 
 \begin{table}[H]
 \begin{center}
-    \caption{Vaisingumo rodiklio santykinės išskirtys}
+    \caption{Vaisingumo rodiklio santikinės išskirtys}
     \begin{tabular}{c c}
         \hline
         \textbf{Šalis} & \textbf{Vaisingumo rodiklis} \\\hline
@@ -41,12 +42,15 @@ Išskirčių lentelės:
     \end{tabular}
 \end{center}
 \end{table}
+\end{multicols}
+
+Vienintelės ŽSRI rodiklio išskirtys buvo šalys, kurių ŽSRI rodiklis buvo lygus - 0, taigi jo tiesiog nebuvo. Todėl, vėliau atlikdami koreliacijos skaičiavimus, šiuos duomenis išfiltravom. Tuo tarpu, vaisingumo rodiklio vienintėlė išskirtis buvo santykinė ir nebuvo tuščias duomuo, bet tiesiog gana didelė reikšmė, todėl jos iš skaičiavimų neišfiltravom.
 
 \pagebreak
 
 
 \subsection{Koreliacijos tyrimas}
-\paragraph{} Siekdami nustatyti sąryšį tarp įvairių kintamųjų, pamatavome vaisingumo ir HDI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Šis koeficientas nusako \textbf{tiesinio} ryšio stiprumą ir kryptį. Jis apskaičiuojamas pagal formulę: 
+\paragraph{} Siekdami nustatyti sąryšį tarp įvairių kintamųjų, pamatavome vaisingumo ir ŽSRI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Šis koeficientas nusako \textbf{tiesinio} ryšio stiprumą ir kryptį. Jis apskaičiuojamas pagal formulę: 
 \begin{equation}
 r = \frac{\sum\limits_i (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum\limits_i(x_i - \bar{x})^2}\sqrt{\sum\limits_i(y_i - \bar{y})^2}}
 \end{equation}
@@ -58,7 +62,7 @@ Koreliacijos koeficientų reikšmes pateikiame lentelėje:
     \begin{tabular}{|c|c|}
         \hline
         \textbf{Lyginti kintamieji} & \textbf{Pirsono koreliacijos koeficientas} \\\hline
-        HDI ir Vaisinigumo rodiklis & -0,819 \\\hline
+        ŽSRI ir Vaisinigumo rodiklis & -0,819 \\\hline
         Aukštojo išsilavinimo procentas ir vaisingumo rodiklis & -0,399 \\\hline
     \end{tabular}
 \end{center}
@@ -66,7 +70,7 @@ Koreliacijos koeficientų reikšmes pateikiame lentelėje:
 
 Šių kintamų sąryšius iliustruoja sklaidos diagramos:
 \begin{multicols}{2}
-\diagrama{pic/vias_hdi_rod.png}{Gyventojų vaisingumo rodiklio ir HDI sklaidos diagrama}
+\diagrama{pic/vias_hdi_rod.png}{Gyventojų vaisingumo rodiklio ir ŽSRI sklaidos diagrama}
 \diagrama{pic/gyv_vais_kor.png}{Gyventojų vaisingumo rodiklio ir aukštojo išsilavinimo procento sklaidos diagrama}
 \end{multicols}
 
@@ -90,5 +94,5 @@ Koreliacijos koeficientų reikšmes pateikiame lentelėje:
 \paragraph{} Tirta, ar yra skirtumas tarp Baltijos ŽSRI, šalių vaisingumo rodiklio ir aukštojo išsilavinimo procento. Kiekvienas rodiklis padalintas iš atitinkamos maksimalios reikšmės. Taip mes šiuos tris rodiklius patalpinom į tą pačią skalę. Palyginimą greiausiai iliustruoja stulpelinė diagrama:
 \diagrama{pic/balt.png}{Įvairūs rodikliai Baltijos šalyse, 2020 metais}
 
-Taip pat, tirta, ar panašumas tarp Baltijos šalių vaisingumo rodiklių buvo ir seniau(1960-2021 metų intervale). 
+Taip pat, tirta, ar panašumas tarp Baltijos šalių vaisingumo rodiklių buvo ir seniau(1960-2021 metų intervale). Kadangi pokytis geriausiai matosi linijinėje diagramoje, pasirnktas būtent šis diagramos tipas. X ašyje pateikti metai, o Y ašyje - vaisingumo rodikliai.
 \diagrama{pic/vais_balt.png}{Baltijos šalių vaisingumo rodiklis 1960-2021 metais}
