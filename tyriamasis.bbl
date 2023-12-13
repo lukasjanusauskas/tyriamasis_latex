@@ -1,0 +1,75 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{nargund2009declining}{article}{}
+      \name{author}{1}{}{%
+        {{hash=13af72fb71f056f134b354643931d3d4}{%
+           family={Nargund},
+           familyi={N\bibinitperiod},
+           given={Geeta},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vlaamse Vereniging voor Obstetrie en Gynaecologie}%
+      }
+      \strng{namehash}{13af72fb71f056f134b354643931d3d4}
+      \strng{fullhash}{13af72fb71f056f134b354643931d3d4}
+      \strng{bibnamehash}{13af72fb71f056f134b354643931d3d4}
+      \strng{authorbibnamehash}{13af72fb71f056f134b354643931d3d4}
+      \strng{authornamehash}{13af72fb71f056f134b354643931d3d4}
+      \strng{authorfullhash}{13af72fb71f056f134b354643931d3d4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Facts, views \& vision in ObGyn}
+      \field{number}{3}
+      \field{title}{Declining birth rate in Developed Countries: A radical policy re-think is required}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{191}
+      \range{pages}{1}
+    \endentry
+    \entry{sensltvis}{report}{}
+      \name{author}{1}{}{%
+        {{hash=c56824838185cbcb5d334a91a4026335}{%
+           family={Strata},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c56824838185cbcb5d334a91a4026335}
+      \strng{fullhash}{c56824838185cbcb5d334a91a4026335}
+      \strng{bibnamehash}{c56824838185cbcb5d334a91a4026335}
+      \strng{authorbibnamehash}{c56824838185cbcb5d334a91a4026335}
+      \strng{authornamehash}{c56824838185cbcb5d334a91a4026335}
+      \strng{authorfullhash}{c56824838185cbcb5d334a91a4026335}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Senstanti Lietuvos visuomenė}
+      \field{year}{2020}
+      \field{pages}{47}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

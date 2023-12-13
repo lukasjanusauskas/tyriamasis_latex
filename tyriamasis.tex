@@ -8,6 +8,18 @@
 \usepackage{array}
 \usepackage{multicol}
 \usepackage{float}
+\usepackage[backend=biber]{biblatex}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\addbibresource{lit.bib}
 
 \newcommand{\diagrama}[2]{
 \begin{figure}[H]
@@ -39,8 +51,6 @@
     Vaisingumo rodiklio ir susijusių rodiklių sąryšiai \\ bei pasiskirstymas pasaulyje. \\}
     \vspace*{\fill}
     Vilnius \\ 2023
-    
-    
 \end{titlepage}
 \pagebreak
 
@@ -73,6 +83,7 @@
 \pagebreak
 
 \section{Šaltiniai}
-\input{salt.tex}
+\input{liter.tex}
+\printbibliography
 
 \end{document}
