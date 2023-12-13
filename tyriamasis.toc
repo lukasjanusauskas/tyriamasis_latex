@@ -1,20 +1,20 @@
 \babel@toc {lithuanian}{}\relax 
 \contentsline {section}{\numberline {1}Žymenys ir santrumpos}{2}{}%
-\contentsline {section}{\numberline {2}Raktiniai žodžiai}{2}{}%
-\contentsline {section}{\numberline {3}Įvadas}{2}{}%
-\contentsline {section}{\numberline {4}Tyrimo tikslas ir uždaviniai}{2}{}%
-\contentsline {subsection}{\numberline {4.1}Tikslas}{2}{}%
-\contentsline {subsection}{\numberline {4.2}Uždaviniai}{2}{}%
-\contentsline {section}{\numberline {5}Tyrimas}{3}{}%
-\contentsline {subsection}{\numberline {5.1}Išskirčių tyrimas}{3}{}%
-\contentsline {paragraph}{}{3}{}%
-\contentsline {subsection}{\numberline {5.2}Koreliacijos tyrimas}{4}{}%
-\contentsline {subsection}{\numberline {5.3}Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas}{5}{}%
-\contentsline {subsection}{\numberline {5.4}Vaisingumo pasiskirstymas pasaulyje}{5}{}%
-\contentsline {subsection}{\numberline {5.5}Vaisingumo rodiklis Baltijos šalyse}{6}{}%
-\contentsline {section}{\numberline {6}Išvados}{7}{}%
-\contentsline {subsection}{\numberline {6.1}HDI ir vaisingumo rodiklio išskirtys}{7}{}%
-\contentsline {subsection}{\numberline {6.2}Vaisingumo rodiklis ir HDI bei aukštojo išsilavinimo sąryšis}{7}{}%
-\contentsline {subsection}{\numberline {6.3}Vaisingumo rodiklio pasiskirtsymas}{7}{}%
-\contentsline {subsection}{\numberline {6.4}Vaisingumas Baltijos šalyse}{7}{}%
-\contentsline {subsection}{\numberline {6.5}Vaisingumo pasiskirstymas pasaulyje}{7}{}%
+\contentsline {section}{\numberline {2}Įvadas}{2}{}%
+\contentsline {section}{\numberline {3}Tyrimo tikslas ir uždaviniai}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Tikslas}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Uždaviniai}{3}{}%
+\contentsline {section}{\numberline {4}Duomenys}{4}{}%
+\contentsline {section}{\numberline {5}Tyrimas}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Išskirčių tyrimas}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Koreliacijos tyrimas}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {subsection}{\numberline {5.3}Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {subsection}{\numberline {5.4}Vaisingumo pasiskirstymas pasaulyje}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {subsection}{\numberline {5.5}Vaisingumo rodiklis Baltijos šalyse}{9}{}%
+\contentsline {paragraph}{}{9}{}%
+\contentsline {section}{\numberline {6}Išvados}{10}{}%

@@ -15,24 +15,52 @@ Išskirtis tyrėme pasitelkdami kvartilių metodą. Tai reiškia, kad reikšmę 
         \caption{Vaisingumo rodiklio stačiakampė diagrama}
     \end{figure}
 \end{multicols}
+
+Išskirčių lentelės:
+\begin{table}[H]
+\begin{center}
+    \caption{ŽSRI santykinės išskirtys}
+    \begin{tabular}{c c}
+        \hline
+        \textbf{Šalis} & \textbf{ŽSRI} \\\hline
+        Šiaurės Korėja & 0 \\
+        Somalija & 0 \\
+        Nauru & 0 \\
+        Monakas & 0 \\\hline
+    \end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[H]
+\begin{center}
+    \caption{Vaisingumo rodiklio santykinės išskirtys}
+    \begin{tabular}{c c}
+        \hline
+        \textbf{Šalis} & \textbf{Vaisingumo rodiklis} \\\hline
+        Nigeris & 6.892 \\\hline
+    \end{tabular}
+\end{center}
+\end{table}
+
 \pagebreak
 
+
 \subsection{Koreliacijos tyrimas}
-Pamatavome vaisingumo ir HDI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Jis paskaičiuojamas pagal formulę: 
+\paragraph{} Siekdami nustatyti sąryšį tarp įvairių kintamųjų, pamatavome vaisingumo ir HDI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Šis koeficientas nusako \textbf{tiesinio} ryšio stiprumą ir kryptį. Jis apskaičiuojamas pagal formulę: 
 \begin{equation}
 r = \frac{\sum\limits_i (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum\limits_i(x_i - \bar{x})^2}\sqrt{\sum\limits_i(y_i - \bar{y})^2}}
 \end{equation}
 
-Tyrimo rezultatus pateikiame lentelėje:
+Koreliacijos koeficientų reikšmes pateikiame lentelėje:
 \begin{table}[H]
 \begin{center}
+    \caption{Koreliacijos skaičiavimų rezultatai}
     \begin{tabular}{|c|c|}
         \hline
         \textbf{Lyginti kintamieji} & \textbf{Pirsono koreliacijos koeficientas} \\\hline
         HDI ir Vaisinigumo rodiklis & -0,819 \\\hline
         Aukštojo išsilavinimo procentas ir vaisingumo rodiklis & -0,399 \\\hline
     \end{tabular}
-    \caption{Koreliacijos skaičiavimų rezultatai}
 \end{center}
 \end{table}
 
@@ -46,20 +74,21 @@ Tyrimo rezultatus pateikiame lentelėje:
 
 \subsection{Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas} 
 
-Aukštąjį išsilavinimą gavusių suaugiusiųjų pasiskirtsymą iliustruoja histograma:
+\paragraph{} Siekdami ištirti, koks yra aukštąjį išsilavinimą gavusių žmonių procento skirstinys 2020 metais, nubrėžėme histogramą. Historgamoje vizualiai galime matyti, ar skirstinys yra simetriškas, o jei ne, į kurią pusę pakrypęs.
 \diagrama{pic/histo.png}{Aukštąjį išsilavinimą gavusių procentas.}
+\pagebreak
 
 \subsection{Vaisingumo pasiskirstymas pasaulyje}
-Tirdami šį pasiskirstymą pagal šalis nubrėžiame žemėlapį:
+\paragraph{} Tirdami vaisingumo rodiklio pasiskirstymą pasaulio šalyse nubrėžėme žemėlapį. Jame šalis, kurių vertės yra virš vidurkio, žymėjome spalva monochromatine oranžnei, o šalis, kurių vaisingumo rodiklis yra žemesnis nei vidurkis, žymime spalva monochromatine mėlynai.
 \diagrama{pic/map.png}{Vaisingumo rodiklis įvairiose pasaulio šalyse.}
 
-Tirdami šį pasiskirstymą pagal žemynus nubrėžiame skritulinę diagramą:
-\diagrama{pic/pie_2020.png}{Skritulinė diagrama, vaizduojanti vaisingumą įvairiuose žemynuose}
+\paragraph{} Jau žemėlapyje galime pastebėti tendenciją, kad Afrikoje vaisingumas didžiausias. Todėl, taip pat verta įvertinti vaisingumo pasiskirstymą žemynuose. Šį pasiskirstymą iliustruoja skritulinė diagramą:
+\diagrama{pic/pie_2020.png}{Skritulinė diagrama, vaizduojanti vaisingumą įvairiuose žemynuose/regionuose}
+\pagebreak
 
 \subsection{Vaisingumo rodiklis Baltijos šalyse}
-Mums buvo svarbu nustatyti, kaip skiriasi minėti rodikliai tarp Baltijos šalių.
-Tam mums pravertė stulpelinė diagrama:
-\diagrama{pic/balt.png}{Įvairūs rodikliai Baltijos šalyse}
+\paragraph{} Tirta, ar yra skirtumas tarp Baltijos ŽSRI, šalių vaisingumo rodiklio ir aukštojo išsilavinimo procento. Kiekvienas rodiklis padalintas iš atitinkamos maksimalios reikšmės. Taip mes šiuos tris rodiklius patalpinom į tą pačią skalę. Palyginimą greiausiai iliustruoja stulpelinė diagrama:
+\diagrama{pic/balt.png}{Įvairūs rodikliai Baltijos šalyse, 2020 metais}
 
-Taip pat, mes tyrėme, kaip keitėsi Baltijos šalių vaisingumo rodiklis tarp 1960 ir 2021 metų.
-\diagrama{pic/vais_balt.png}{Baltijos šalių vaisingumo rodiklis įvairiais metais}
+Taip pat, tirta, ar panašumas tarp Baltijos šalių vaisingumo rodiklių buvo ir seniau(1960-2021 metų intervale). 
+\diagrama{pic/vais_balt.png}{Baltijos šalių vaisingumo rodiklis 1960-2021 metais}
