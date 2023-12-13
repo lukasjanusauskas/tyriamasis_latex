@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 23:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -400,18 +400,37 @@ File: pic/vais_balt.png Graphic file (type png)
 Package pdftex.def Info: pic/vais_balt.png  used on input line 95.
 (pdftex.def)             Requested size: 250.24199pt x 157.38159pt.
  [10 <./pic/balt.png> <./pic/vais_balt.png>]
+
+LaTeX Warning: File `pic/mirt_vais_kor.png' not found on input line 100.
+
+
+! Package pdftex.def Error: File `pic/mirt_vais_kor.png' not found: using draft
+ setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ...pic/mirt_vais_kor.png}{Sklaidos diagrama}
+                                                  
+? 
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+00.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
 <pic/mirt_vais.png, id=72, 404.931pt x 238.71pt>
 File: pic/mirt_vais.png Graphic file (type png)
 <use pic/mirt_vais.png>
-Package pdftex.def Info: pic/mirt_vais.png  used on input line 100.
+Package pdftex.def Info: pic/mirt_vais.png  used on input line 103.
 (pdftex.def)             Requested size: 250.24199pt x 147.52151pt.
 ) [11 <./pic/mirt_vais.png>] (./isv.tex) [12] (./tyriamasis.aux) ) 
 Here is how much of TeX's memory you used:
- 4122 strings out of 478287
- 64257 string characters out of 5849290
+ 4187 strings out of 478287
+ 65905 string characters out of 5849290
  382852 words of memory out of 5000000
- 22258 multiletter control sequences out of 15000+600000
- 479956 words of font info for 50 fonts, out of 8000000 for 9000
+ 22305 multiletter control sequences out of 15000+600000
+ 480269 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,9n,62p,430b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/t
@@ -427,11 +446,11 @@ lic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx172
 8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488
-.pfb>
-Output written on tyriamasis.pdf (13 pages, 1115628 bytes).
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on tyriamasis.pdf (13 pages, 1143272 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
