@@ -1,20 +1,22 @@
 \babel@toc {lithuanian}{}\relax 
-\contentsline {section}{\numberline {1}Žymenys ir santrumpos}{2}{}%
-\contentsline {section}{\numberline {2}Įvadas}{2}{}%
-\contentsline {section}{\numberline {3}Tyrimo tikslas ir uždaviniai}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Tikslas}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Uždaviniai}{3}{}%
-\contentsline {section}{\numberline {4}Duomenys}{4}{}%
-\contentsline {section}{\numberline {5}Tyrimas}{5}{}%
-\contentsline {subsection}{\numberline {5.1}Išskirčių tyrimas}{5}{}%
-\contentsline {paragraph}{}{5}{}%
-\contentsline {subsection}{\numberline {5.2}Koreliacijos tyrimas}{6}{}%
+\contentsline {section}{\numberline {1}Žymenys, santrumpos ir formulės}{2}{}%
+\contentsline {section}{\numberline {2}Įvadas}{3}{}%
+\contentsline {section}{\numberline {3}Tyrimo tikslas ir uždaviniai}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Tikslas}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Uždaviniai}{4}{}%
+\contentsline {section}{\numberline {4}Duomenys}{5}{}%
+\contentsline {section}{\numberline {5}Tyrimas}{6}{}%
+\contentsline {subsection}{\numberline {5.1}Išskirčių tyrimas}{6}{}%
 \contentsline {paragraph}{}{6}{}%
-\contentsline {subsection}{\numberline {5.3}Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas}{7}{}%
+\contentsline {subsection}{\numberline {5.2}Koreliacijos tyrimas}{7}{}%
 \contentsline {paragraph}{}{7}{}%
-\contentsline {subsection}{\numberline {5.4}Vaisingumo pasiskirstymas pasaulyje}{8}{}%
+\contentsline {subsection}{\numberline {5.3}Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas}{8}{}%
 \contentsline {paragraph}{}{8}{}%
-\contentsline {paragraph}{}{8}{}%
-\contentsline {subsection}{\numberline {5.5}Vaisingumo rodiklis Baltijos šalyse}{9}{}%
+\contentsline {subsection}{\numberline {5.4}Vaisingumo pasiskirstymas pasaulyje}{9}{}%
 \contentsline {paragraph}{}{9}{}%
-\contentsline {section}{\numberline {6}Išvados}{10}{}%
+\contentsline {paragraph}{}{9}{}%
+\contentsline {subsection}{\numberline {5.5}Vaisingumo rodiklis Baltijos šalyse}{10}{}%
+\contentsline {paragraph}{}{10}{}%
+\contentsline {subsection}{\numberline {5.6}Mirtingumo ir vaisingumo sąryšis 1960-2021 metais}{11}{}%
+\contentsline {paragraph}{}{11}{}%
+\contentsline {section}{\numberline {6}Išvados}{12}{}%
