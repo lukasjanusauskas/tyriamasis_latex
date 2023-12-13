@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -243,20 +243,20 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 (./tyriamasis.aux)
 \openout1 = `tyriamasis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -299,12 +299,12 @@ e
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -317,7 +317,7 @@ e
 <pic/vu_logo.png, id=1, 265.7127pt x 154.4169pt>
 File: pic/vu_logo.png Graphic file (type png)
 <use pic/vu_logo.png>
-Package pdftex.def Info: pic/vu_logo.png  used on input line 25.
+Package pdftex.def Info: pic/vu_logo.png  used on input line 24.
 (pdftex.def)             Requested size: 250.24199pt x 145.42992pt.
 [1
 
@@ -327,87 +327,96 @@ Package pdftex.def Info: pic/vu_logo.png  used on input line 25.
 \openout3 = `tyriamasis.toc'.
 
  [1] (./zym.tex) (./rakt.tex) (./iv.tex) (./tiks.tex)
-(./tyr.tex
-<pic/box.png, id=18, 252.069pt x 338.574pt>
+[2] (./tyr.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+<pic/box.png, id=25, 252.069pt x 338.574pt>
 File: pic/box.png Graphic file (type png)
 <use pic/box.png>
-Package pdftex.def Info: pic/box.png  used on input line 7.
+Package pdftex.def Info: pic/box.png  used on input line 9.
 (pdftex.def)             Requested size: 150.14671pt x 201.67358pt.
- [2]
-<pic/vias_hdi_rod.png, id=27, 447.636pt x 270.465pt>
+<pic/box2.png, id=26, 256.449pt x 348.21pt>
+File: pic/box2.png Graphic file (type png)
+<use pic/box2.png>
+Package pdftex.def Info: pic/box2.png  used on input line 14.
+(pdftex.def)             Requested size: 150.14671pt x 203.87471pt.
+[3 <./pic/box.png> <./pic/box2.png>]
+<pic/vias_hdi_rod.png, id=33, 447.636pt x 270.465pt>
 File: pic/vias_hdi_rod.png Graphic file (type png)
 <use pic/vias_hdi_rod.png>
-Package pdftex.def Info: pic/vias_hdi_rod.png  used on input line 32.
+Package pdftex.def Info: pic/vias_hdi_rod.png  used on input line 41.
 (pdftex.def)             Requested size: 250.24199pt x 151.19936pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 32--32
+Overfull \hbox (5.0pt too wide) in paragraph at lines 41--41
  [][] 
  []
 
-<pic/gyv_vais_kor.png, id=28, 411.72pt x 246.375pt>
+<pic/gyv_vais_kor.png, id=34, 411.72pt x 246.375pt>
 File: pic/gyv_vais_kor.png Graphic file (type png)
 <use pic/gyv_vais_kor.png>
-Package pdftex.def Info: pic/gyv_vais_kor.png  used on input line 33.
+Package pdftex.def Info: pic/gyv_vais_kor.png  used on input line 42.
 (pdftex.def)             Requested size: 250.24199pt x 149.74341pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 33--33
+Overfull \hbox (5.0pt too wide) in paragraph at lines 42--42
  [][] 
  []
 
-[3 <./pic/box.png> <./pic/vias_hdi_rod.png> <./pic/gyv_vais_kor.png>]
-<pic/histo.png, id=38, 411.282pt x 299.154pt>
+[4 <./pic/vias_hdi_rod.png> <./pic/gyv_vais_kor.png>]
+<pic/histo.png, id=43, 411.282pt x 299.154pt>
 File: pic/histo.png Graphic file (type png)
 <use pic/histo.png>
-Package pdftex.def Info: pic/histo.png  used on input line 39.
+Package pdftex.def Info: pic/histo.png  used on input line 50.
 (pdftex.def)             Requested size: 250.24199pt x 182.02263pt.
-<pic/map.png, id=39, 487.932pt x 278.349pt>
+<pic/map.png, id=44, 487.932pt x 278.349pt>
 File: pic/map.png Graphic file (type png)
 <use pic/map.png>
-Package pdftex.def Info: pic/map.png  used on input line 43.
+Package pdftex.def Info: pic/map.png  used on input line 54.
 (pdftex.def)             Requested size: 250.24199pt x 142.7546pt.
-<pic/pie_2020.png, id=40, 419.166pt x 324.558pt>
+<pic/pie_2020.png, id=45, 419.166pt x 324.558pt>
 File: pic/pie_2020.png Graphic file (type png)
 <use pic/pie_2020.png>
-Package pdftex.def Info: pic/pie_2020.png  used on input line 46.
+Package pdftex.def Info: pic/pie_2020.png  used on input line 57.
 (pdftex.def)             Requested size: 250.24199pt x 193.76068pt.
- [4 <./pic/histo.png> <./pic/map.png>]
-<pic/balt.png, id=46, 361.788pt x 217.467pt>
+ [5 <./pic/histo.png> <./pic/map.png>]
+<pic/balt.png, id=51, 361.788pt x 217.467pt>
 File: pic/balt.png Graphic file (type png)
 <use pic/balt.png>
-Package pdftex.def Info: pic/balt.png  used on input line 51.
+Package pdftex.def Info: pic/balt.png  used on input line 62.
 (pdftex.def)             Requested size: 250.24199pt x 150.41737pt.
-<pic/vais_balt.png, id=47, 563.049pt x 354.123pt>
+<pic/vais_balt.png, id=52, 563.049pt x 354.123pt>
 File: pic/vais_balt.png Graphic file (type png)
 <use pic/vais_balt.png>
-Package pdftex.def Info: pic/vais_balt.png  used on input line 54.
+Package pdftex.def Info: pic/vais_balt.png  used on input line 65.
 (pdftex.def)             Requested size: 250.24199pt x 157.38159pt.
-) (./isv.tex [5 <./pic/pie_2020.png> <./pic/balt.png> <./pic/vais_balt.png>]) [
-6] (./tyriamasis.aux) ) 
+) [6 <./pic/pie_2020.png> <./pic/balt.png>] (./isv.tex) [7 <./pic/vais_balt.png
+>] (./tyriamasis.aux) ) 
 Here is how much of TeX's memory you used:
- 4087 strings out of 478287
- 63782 string characters out of 5849290
- 381766 words of memory out of 5000000
- 22235 multiletter control sequences out of 15000+600000
- 476987 words of font info for 40 fonts, out of 8000000 for 9000
+ 4115 strings out of 478287
+ 64111 string characters out of 5849290
+ 380850 words of memory out of 5000000
+ 22252 multiletter control sequences out of 15000+600000
+ 479956 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,270b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,62p,360b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.e
 nc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on tyriamasis.pdf (7 pages, 1003811 bytes).
+Output written on tyriamasis.pdf (8 pages, 1039268 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
