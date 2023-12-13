@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 18:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  13 DEC 2023 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,16 +314,21 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(./tyriamasis.toc)
+\tf@toc=\write3
+\openout3 = `tyriamasis.toc'.
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./zym.tex) (./rakt.tex) (./iv.tex) (./tiks.tex) (./tyr.tex
-<pic/box.png, id=1, 252.069pt x 338.574pt>
+<pic/box.png, id=12, 252.069pt x 338.574pt>
 File: pic/box.png Graphic file (type png)
 <use pic/box.png>
 Package pdftex.def Info: pic/box.png  used on input line 7.
 (pdftex.def)             Requested size: 150.14671pt x 201.67358pt.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<pic/vias_hdi_rod.png, id=18, 447.636pt x 270.465pt>
+ [2]
+<pic/vias_hdi_rod.png, id=22, 447.636pt x 270.465pt>
 File: pic/vias_hdi_rod.png Graphic file (type png)
 <use pic/vias_hdi_rod.png>
 Package pdftex.def Info: pic/vias_hdi_rod.png  used on input line 32.
@@ -333,7 +338,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 32--32
  [][] 
  []
 
-<pic/gyv_vais_kor.png, id=19, 411.72pt x 246.375pt>
+<pic/gyv_vais_kor.png, id=23, 411.72pt x 246.375pt>
 File: pic/gyv_vais_kor.png Graphic file (type png)
 <use pic/gyv_vais_kor.png>
 Package pdftex.def Info: pic/gyv_vais_kor.png  used on input line 33.
@@ -343,40 +348,40 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 33--33
  [][] 
  []
 
-[2 <./pic/box.png> <./pic/vias_hdi_rod.png> <./pic/gyv_vais_kor.png>]
-<pic/histo.png, id=30, 411.282pt x 299.154pt>
+[3 <./pic/box.png> <./pic/vias_hdi_rod.png> <./pic/gyv_vais_kor.png>]
+<pic/histo.png, id=33, 411.282pt x 299.154pt>
 File: pic/histo.png Graphic file (type png)
 <use pic/histo.png>
 Package pdftex.def Info: pic/histo.png  used on input line 39.
 (pdftex.def)             Requested size: 250.24199pt x 182.02263pt.
-<pic/map.png, id=31, 487.932pt x 278.349pt>
+<pic/map.png, id=34, 487.932pt x 278.349pt>
 File: pic/map.png Graphic file (type png)
 <use pic/map.png>
 Package pdftex.def Info: pic/map.png  used on input line 43.
 (pdftex.def)             Requested size: 250.24199pt x 142.7546pt.
-<pic/pie_2020.png, id=32, 419.166pt x 324.558pt>
+<pic/pie_2020.png, id=35, 419.166pt x 324.558pt>
 File: pic/pie_2020.png Graphic file (type png)
 <use pic/pie_2020.png>
 Package pdftex.def Info: pic/pie_2020.png  used on input line 46.
 (pdftex.def)             Requested size: 250.24199pt x 193.76068pt.
- [3 <./pic/histo.png> <./pic/map.png>]
-<pic/balt.png, id=38, 361.788pt x 217.467pt>
+ [4 <./pic/histo.png> <./pic/map.png>]
+<pic/balt.png, id=41, 361.788pt x 217.467pt>
 File: pic/balt.png Graphic file (type png)
 <use pic/balt.png>
 Package pdftex.def Info: pic/balt.png  used on input line 51.
 (pdftex.def)             Requested size: 250.24199pt x 150.41737pt.
-<pic/vais_balt.png, id=39, 563.049pt x 354.123pt>
+<pic/vais_balt.png, id=42, 563.049pt x 354.123pt>
 File: pic/vais_balt.png Graphic file (type png)
 <use pic/vais_balt.png>
 Package pdftex.def Info: pic/vais_balt.png  used on input line 54.
 (pdftex.def)             Requested size: 250.24199pt x 157.38159pt.
-) (./isv.tex [4 <./pic/pie_2020.png> <./pic/balt.png> <./pic/vais_balt.png>]) [
-5] (./tyriamasis.aux) ) 
+) (./isv.tex [5 <./pic/pie_2020.png> <./pic/balt.png> <./pic/vais_balt.png>]) [
+6] (./tyriamasis.aux) ) 
 Here is how much of TeX's memory you used:
- 4095 strings out of 478287
- 63779 string characters out of 5849290
- 382876 words of memory out of 5000000
- 22238 multiletter control sequences out of 15000+600000
+ 4101 strings out of 478287
+ 63859 string characters out of 5849290
+ 381876 words of memory out of 5000000
+ 22241 multiletter control sequences out of 15000+600000
  480390 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,9n,62p,270b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -393,10 +398,10 @@ fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
 cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on tyriamasis.pdf (5 pages, 976384 bytes).
+Output written on tyriamasis.pdf (6 pages, 979701 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
