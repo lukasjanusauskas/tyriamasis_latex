@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  14 DEC 2023 01:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  14 DEC 2023 02:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,7 +844,18 @@ File: pic/mirt_vais.png Graphic file (type png)
 Package pdftex.def Info: pic/mirt_vais.png  used on input line 103.
 (pdftex.def)             Requested size: 250.24199pt x 147.52151pt.
 ) [11 <./pic/mirt_vais_kor.png> <./pic/mirt_vais.png>] (./isv.tex)
-[12] (./liter.tex) [13] (./tyriamasis.aux)
+[12] (./liter.tex
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+0.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (74.61006pt too wide) in paragraph at lines 10--12
+[][]\T1/cmr/m/n/12 https://ourworldindata.org/grapher/share-of-the-population-w
+ith-completed-tertiary-education?tab=table[][] 
+ []
+
+) [13] (./tyriamasis.aux)
 Package rerunfilecheck Info: File `tyriamasis.out' has not changed.
 (rerunfilecheck)             Checksum: 2326B62F88D8CF014D29960F43ED1C95;2573.
 Package logreq Info: Writing requests to 'tyriamasis.run.xml'.
@@ -852,11 +863,11 @@ Package logreq Info: Writing requests to 'tyriamasis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18454 strings out of 478287
- 320696 string characters out of 5849290
+ 18476 strings out of 478287
+ 321333 string characters out of 5849290
  1044290 words of memory out of 5000000
- 36341 multiletter control sequences out of 15000+600000
- 480640 words of font info for 51 fonts, out of 8000000 for 9000
+ 36358 multiletter control sequences out of 15000+600000
+ 480953 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,9n,68p,743b,1761s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
@@ -872,11 +883,11 @@ m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
 onts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfrm2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-
-Output written on tyriamasis.pdf (14 pages, 1238151 bytes).
+</usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on tyriamasis.pdf (14 pages, 1260730 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 245 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 325 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
