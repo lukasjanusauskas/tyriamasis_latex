@@ -44,7 +44,7 @@ Išskirčių lentelės:
 \end{table}
 \end{multicols}
 
-Vienintelės ŽSRI rodiklio išskirtys buvo šalys, kurių ŽSRI rodiklis buvo lygus - 0, taigi jo tiesiog nebuvo. Todėl, vėliau atlikdami koreliacijos skaičiavimus, šiuos duomenis išfiltravom. Tuo tarpu, vaisingumo rodiklio vienintėlė išskirtis buvo santykinė ir nebuvo tuščias duomuo, bet tiesiog gana didelė reikšmė, todėl jos iš skaičiavimų neišfiltravom.
+Vienintelės ŽSRI rodiklio išskirtys buvo šalys, kurių ŽSRI rodiklis buvo lygus 0, taigi jo tiesiog nebuvo. Todėl, vėliau atlikdami koreliacijos skaičiavimus, šiuos duomenis išfiltravom. Tuo tarpu, vaisingumo rodiklio vienintelė išskirtis buvo santykinė ir nebuvo tuščias duomuo, bet tiesiog gana didelė reikšmė, todėl jos iš skaičiavimų neišfiltravom.
 
 \pagebreak
 
@@ -52,14 +52,14 @@ Vienintelės ŽSRI rodiklio išskirtys buvo šalys, kurių ŽSRI rodiklis buvo l
 \subsection{Koreliacijos tyrimas}
 \paragraph{} Siekdami nustatyti sąryšį tarp įvairių kintamųjų, pamatavome vaisingumo ir ŽSRI bei vaisingumo ir aukštojo išsilavinimo procento rodiklių koreliacijas. Tai padarėme, pritaikydami Pirsono(angl. Pearson) koreliacijos koeficientą. Šis koeficientas nusako \textbf{tiesinio} ryšio stiprumą ir kryptį.
 
-Koreliacijos koeficientų reikšmes pateikiame lentelėje:
+Koreliacijos koeficientų reikšmės pateiktos lentelėje:
 \begin{table}[H]
 \begin{center}
     \caption{Koreliacijos skaičiavimų rezultatai}
     \begin{tabular}{|c|c|}
         \hline
         \textbf{Lyginti kintamieji} & \textbf{Pirsono koreliacijos koeficientas} \\\hline
-        ŽSRI ir Vaisinigumo rodiklis & -0,819 \\\hline
+        ŽSRI ir vaisingumo rodiklis & -0,819 \\\hline
         Aukštojo išsilavinimo procentas ir vaisingumo rodiklis & -0,399 \\\hline
     \end{tabular}
 \end{center}
@@ -75,7 +75,7 @@ Koreliacijos koeficientų reikšmes pateikiame lentelėje:
 
 \subsection{Aukštąjį išsilavinimą gavusiųjų suaugiusiųjų pasiskirtsymo tyrimas} 
 
-\paragraph{} Siekdami ištirti, koks yra aukštąjį išsilavinimą gavusių žmonių procento skirstinys 2020 metais, nubrėžėme histogramą. Historgamoje vizualiai galime matyti, ar skirstinys yra simetriškas, o jei ne, į kurią pusę pakrypęs.
+\paragraph{} Siekdami ištirti, koks yra aukštąjį išsilavinimą gavusių žmonių procento skirstinys 2020 metais, nubrėžėme histogramą. Histogramoje vizualiai galima pastebėti, ar skirstinys yra simetriškas, o jei ne, į kurią pusę pakrypęs.
 \diagrama{pic/histo.png}{Aukštąjį išsilavinimą gavusių procentas.}
 \pagebreak
 
@@ -84,22 +84,22 @@ Koreliacijos koeficientų reikšmes pateikiame lentelėje:
 \diagrama{pic/map.png}{Vaisingumo rodiklis įvairiose pasaulio šalyse.}
 
 \paragraph{} Jau žemėlapyje galime pastebėti tendenciją, kad Afrikoje vaisingumas didžiausias. Todėl, taip pat verta įvertinti vaisingumo pasiskirstymą žemynuose. Šį pasiskirstymą iliustruoja skritulinė diagramą:
-\diagrama{pic/pie_2020.png}{Skritulinė diagrama, vaizduojanti vaisingumą įvairiuose žemynuose/regionuose}
+\hypertarget{pie}{\diagrama{pic/pie_2020.png}{Skritulinė diagrama, vaizduojanti vaisingumą įvairiuose žemynuose/regionuose}}
 \pagebreak
 
 \subsection{Vaisingumo rodiklis Baltijos šalyse}
-\paragraph{} Tirta, ar yra skirtumas tarp Baltijos ŽSRI, šalių vaisingumo rodiklio ir aukštojo išsilavinimo procento. Kiekvienas rodiklis padalintas iš atitinkamos maksimalios reikšmės. Taip mes šiuos tris rodiklius patalpinom į tą pačią skalę. Palyginimą greiausiai iliustruoja stulpelinė diagrama:
+\paragraph{} Tirta, ar yra skirtumas tarp Baltijos ŽSRI, šalių vaisingumo rodiklio ir aukštojo išsilavinimo procento. Kiekvienas rodiklis padalintas iš atitinkamos maksimalios reikšmės. Taip mes šiuos tris rodiklius patalpinom į tą pačią skalę. Šį palyginimą iliustruoja stulpelinė diagrama:
 \diagrama{pic/balt.png}{Įvairūs rodikliai Baltijos šalyse, 2020 metais}
 
-Taip pat, tirta, ar panašumas tarp Baltijos šalių vaisingumo rodiklių buvo ir seniau(1960-2021 metų intervale). Kadangi pokytis geriausiai matosi linijinėje diagramoje, pasirnktas būtent šis diagramos tipas. X ašyje pateikti metai, o Y ašyje - vaisingumo rodikliai.
+Taip pat, tirta, ar panašumas tarp Baltijos šalių vaisingumo rodiklių buvo ir seniau(1960-2021 metų intervale). Kadangi pokytis geriausiai matosi linijinėje diagramoje, pasirinktas būtent šis diagramos tipas. X ašyje pateikti metai, o Y ašyje - vaisingumo rodikliai.
 \diagrama{pic/vais_balt.png}{Baltijos šalių vaisingumo rodiklis 1960-2021 metais}
 \pagebreak
 
 \subsection{Mirtingumo ir vaisingumo sąryšis 1960-2021 metais}
-Nors, didžiojoje dalyje literatūros minima, kad mirtingumas ir vaisingumas koreliuoja teigiamai, tačiau atlikus skaičiavimus gaunamas rezultatas, kad mirtingumo ir vaisingumo Pirsono koreliacijos koeficientas 2020 metais yra arti neigiamas ir arti nulio: $r = -0.127$. Tai iliustruoja sklaidos diagrama:
+\paragraph{} Taip pat buvo ištirtas sąryšis tarp mirtingumo ir vaisingumo. Apskaičiuotas Pirsono koreliacijos koeficientas, atskleidė, kokio stiprumo ir krypties yra tiesinis sąryšis(ir ar būtent toks yra). O nubrėžta sklaidos diagrama, iliustravo sąryšį(šiuo atveju, jo nebuvimą).
 \diagrama{pic/mirt_vais_kor.png}{Mirtingumas ir vaisingumas 2020 metais}
 
-Todėl svarbu patikrinti, kaip šis koeficientas kito per tarp 1960 iki 2021. Pamatuotas ir palygintas Pirsono(angl. Pearson) koreliacijos koeficientas šiame laiko tarpe. Rezultatus pavaizduosime linijine diagrama:
+Iš pirmos dalies netikėto rezultato prieita išvada, kad svarbu patikrinti, kaip šis koeficientas kito per tarp 1960 iki 2021. Pamatuotas ir palygintas Pirsono(angl. Pearson) koreliacijos koeficientas šiame laiko tarpe. Rezultatus pavaizduosime linijine diagrama:
 \diagrama{pic/mirt_vais.png}{Koreliacijų koeficientai 1960-2021 metais}
 
 Atlikę skaičiavimus pastebėjome, kad nuo 1960 iki 2000(paskutinių metų, kada Pirsono koreliacijos koeficientas buvo didesnis už 0.5) buvo teigiamas tiesinis sąryšis, tačiau nuo maždaug 2000-ųjų koreliacijos koeficientas pradėjo smukti. 

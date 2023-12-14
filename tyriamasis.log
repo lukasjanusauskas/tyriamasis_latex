@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  14 DEC 2023 02:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  14 DEC 2023 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -822,23 +822,23 @@ Package pdftex.def Info: pic/pie_2020.png  used on input line 87.
 (pdftex.def)             Requested size: 250.24199pt x 193.76068pt.
 
 [9 <./pic/map.png> <./pic/pie_2020.png>]
-<pic/balt.png, id=188, 361.788pt x 217.467pt>
+<pic/balt.png, id=189, 361.788pt x 217.467pt>
 File: pic/balt.png Graphic file (type png)
 <use pic/balt.png>
 Package pdftex.def Info: pic/balt.png  used on input line 92.
 (pdftex.def)             Requested size: 250.24199pt x 150.41737pt.
-<pic/vais_balt.png, id=189, 563.049pt x 354.123pt>
+<pic/vais_balt.png, id=190, 563.049pt x 354.123pt>
 File: pic/vais_balt.png Graphic file (type png)
 <use pic/vais_balt.png>
 Package pdftex.def Info: pic/vais_balt.png  used on input line 95.
 (pdftex.def)             Requested size: 250.24199pt x 157.38159pt.
  [10 <./pic/balt.png> <./pic/vais_balt.png>]
-<pic/mirt_vais_kor.png, id=199, 362.007pt x 208.488pt>
+<pic/mirt_vais_kor.png, id=200, 362.007pt x 208.488pt>
 File: pic/mirt_vais_kor.png Graphic file (type png)
 <use pic/mirt_vais_kor.png>
 Package pdftex.def Info: pic/mirt_vais_kor.png  used on input line 100.
 (pdftex.def)             Requested size: 250.24199pt x 144.12091pt.
-<pic/mirt_vais.png, id=200, 404.931pt x 238.71pt>
+<pic/mirt_vais.png, id=201, 404.931pt x 238.71pt>
 File: pic/mirt_vais.png Graphic file (type png)
 <use pic/mirt_vais.png>
 Package pdftex.def Info: pic/mirt_vais.png  used on input line 103.
@@ -850,9 +850,9 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (74.61006pt too wide) in paragraph at lines 10--12
+Overfull \hbox (17.50597pt too wide) in paragraph at lines 10--12
 [][]\T1/cmr/m/n/12 https://ourworldindata.org/grapher/share-of-the-population-w
-ith-completed-tertiary-education?tab=table[][] 
+ith-completed-tertiary-education[][] 
  []
 
 ) [13] (./tyriamasis.aux)
@@ -863,8 +863,8 @@ Package logreq Info: Writing requests to 'tyriamasis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18476 strings out of 478287
- 321333 string characters out of 5849290
+ 18478 strings out of 478287
+ 321347 string characters out of 5849290
  1044290 words of memory out of 5000000
  36358 multiletter control sequences out of 15000+600000
  480953 words of font info for 52 fonts, out of 8000000 for 9000
@@ -884,10 +884,10 @@ m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb
 onts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfrm2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on tyriamasis.pdf (14 pages, 1260730 bytes).
+Output written on tyriamasis.pdf (14 pages, 1260088 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,14 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
-[0] Config.pm:310> INFO - Logfile is 'tyriamasis.blg'
-[111] biber:340> INFO - === Thu Dec 14, 2023, 01:30:04
-[128] Biber.pm:418> INFO - Reading 'tyriamasis.bcf'
-[235] Biber.pm:972> INFO - Found 2 citekeys in bib section 0
-[262] Biber.pm:4383> INFO - Processing section 0
-[284] Biber.pm:4574> INFO - Looking for bibtex file 'lit.bib' for section 0
-[285] bibtex.pm:1713> INFO - LaTeX decoding ...
-[293] bibtex.pm:1518> INFO - Found BibTeX data source 'lit.bib'
-[370] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[370] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[370] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'lt-LT'
-[374] bbl.pm:654> INFO - Writing 'tyriamasis.bbl' with encoding 'UTF-8'
-[375] bbl.pm:757> INFO - Output to tyriamasis.bbl
+[1] Config.pm:310> INFO - Logfile is 'tyriamasis.blg'
+[168] biber:340> INFO - === Thu Dec 14, 2023, 09:10:45
+[298] Biber.pm:418> INFO - Reading 'tyriamasis.bcf'
+[414] Biber.pm:972> INFO - Found 2 citekeys in bib section 0
+[466] Biber.pm:4383> INFO - Processing section 0
+[549] Biber.pm:4574> INFO - Looking for bibtex file 'lit.bib' for section 0
+[565] bibtex.pm:1713> INFO - LaTeX decoding ...
+[576] bibtex.pm:1518> INFO - Found BibTeX data source 'lit.bib'
+[710] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[710] UCollate.pm:68> INFO - Overriding locale 'lt-LT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[710] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'lt-LT'
+[714] bbl.pm:654> INFO - Writing 'tyriamasis.bbl' with encoding 'UTF-8'
+[716] bbl.pm:757> INFO - Output to tyriamasis.bbl
